@@ -156,5 +156,4 @@ Key features include:
 
 ## 🤝 Connect With Me
 
-- GitHub: [@bertoxic](https://github.com/bertoxic)
 - Email: [dirusalbert@gmail.com](mailto:dirusalbert@gmail.com)
