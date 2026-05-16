@@ -1,8 +1,8 @@
 # Hi, I'm Albert 👋
 
-I'm a **Mobile & Backend Developer** focused on building reliable, scalable, and production-ready software with **Flutter/Dart** and **Go (Golang)**.
+I'm a **Mobile & Backend Developer** focused on building reliable, scalable, and production-ready software with **Flutter/Dart**, **Go (Golang)**, and backend-driven AI integrations.
 
-I enjoy working across the stack — from polished cross-platform mobile experiences to backend systems, APIs, real-time communication, databases, and cloud integrations.
+I enjoy working across the stack — from polished cross-platform mobile experiences to backend systems, APIs, real-time communication, databases, cloud integrations, and AI-powered features.
 
 ---
 
@@ -12,7 +12,8 @@ I enjoy working across the stack — from polished cross-platform mobile experie
 - Design and develop backend services with **Go**
 - Create real-time systems using **WebSockets**, **gRPC**, and event-driven workflows
 - Develop RESTful and GraphQL APIs
-- Work on fintech, healthcare, AI-enabled, and communication products
+- Integrate AI-powered features using **Hugging Face**, transformer models, and inference APIs
+- Work with basic **Python** for scripting, automation, AI experimentation, and backend utilities
 - Build end-to-end features from mobile UI to backend infrastructure
 
 ---
@@ -38,11 +39,13 @@ I enjoy working across the stack — from polished cross-platform mobile experie
 ### Backend Development
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 - Go / Golang
+- Basic Python
 - REST APIs
 - GraphQL
 - gRPC
@@ -57,6 +60,22 @@ I enjoy working across the stack — from polished cross-platform mobile experie
 - System Design
 - Message Deduplication
 - Idempotent Processing
+
+### AI / Machine Learning Tools
+
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Transformers](https://img.shields.io/badge/Transformers-FFCC00?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python_AI-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+- Hugging Face
+- Transformer models
+- Transformer inference
+- Inference APIs
+- AI-powered quiz generation
+- Basic NLP workflows
+- Prompt-based AI features
+- Python scripting for AI experiments
+- Model API integration with backend services
 
 ### DevOps & Tools
 
@@ -87,6 +106,8 @@ Built both the **Flutter mobile app** and **Go backend** for an AI-powered quiz 
 Key features include:
 
 - AI-generated quiz flows
+- Transformer-based AI integration
+- Hugging Face / inference API integration
 - Live quiz sessions
 - Real-time participation
 - Authentication
@@ -129,24 +150,11 @@ Key features include:
 - Building robust mobile products with Flutter
 - Designing scalable backend systems with Go
 - Improving architecture, testing, and performance
+- Integrating AI features into real-world applications
+- Exploring transformer inference and AI-powered backend workflows
 - Creating products that are useful, reliable, and easy to maintain
-- Exploring better ways to combine mobile, backend, real-time systems, and AI
-
----
-
-## 📈 GitHub Stats
-
-![Albert's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bertoxic&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bertoxic&layout=compact&theme=tokyonight)
-
----
 
 ## 🤝 Connect With Me
 
 - GitHub: [@bertoxic](https://github.com/bertoxic)
 - Email: [dirusalbert@gmail.com](mailto:dirusalbert@gmail.com)
-
----
-
-> I enjoy building software that is practical, scalable, and helpful to real users.
